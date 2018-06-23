@@ -1,4 +1,4 @@
-# Wesite
+# Website
 Clone and download the directory. Then open my_website.html to have a look at my work.
 Click on the below icons to navigate through pages.
 
