@@ -1,0 +1,43 @@
+
+body{
+	padding-top: 70px;
+	text-align: center;
+	background-color: #000000;
+	
+}
+
+.jumbotron{
+	background-color:#f7eff1;
+}
+
+h1{
+	font-family: "Raleway";
+	/*color: #000000;*/
+	text-transform: uppercase;
+	border-bottom: 3px solid red;
+	/*width: 30%;*/
+	padding-bottom: 20px;
+	
+}
+
+.navbar-inverse {
+	background: #000000;
+}
+.row.flex{
+	display: inline-flex;
+	width: 100%;
+}
+
+.flex{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+h2 i{
+	padding: 10px;
+}
+a{
+	float: left;
+	color: #000000;
+	padding-left: 50px;
+}
