@@ -1,7 +1,7 @@
 
 Clone and download the directory.
 # Website
-Then open my_website.html to have a look at my work.
+Open my_website.html to have a look at my work.
 Click on the below icons to navigate through pages.
 
 # Photograhy
