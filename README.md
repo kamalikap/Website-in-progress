@@ -1,9 +1,15 @@
-# Working directory
-cdsfdsffd
+# Wesite
+Clone and download the directory. Then open my_website.html to have a look at my work.
+Click on the below icons to navigate through pages.
 
-# Staging area
-cvffdsfsf
+# Photograhy
+photo.html
+This page contains photos taken by me.
 
-# git repository
-ddfdsf
+# Cooking
+cooking.html
+I love cooking, here I have showcased my cullinary skills.
+
+# Blog 
+Here sometimes I express my feelings, for the things I care about.
 
