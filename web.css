@@ -1,0 +1,166 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	padding-top: 20px;
+	font-family: "Geneva";
+	color: black;
+	margin-left: 70px;
+	font-size: 45px;
+	font-weight: 100;
+}
+
+h4{
+	float: right;
+	margin-right: 100px;
+	padding-top: 80px;
+	font-family: "Roboto";
+	font-size: 20px;
+	line-height: 2;
+	font-weight: bold;
+	width: 30%;
+}
+
+h6{
+	float: right;
+	margin-right: 100px;
+	padding-top: 80px;
+	font-family: "Roboto";
+	font-size: 20px;
+	font-weight: 500;
+	width: 30%;
+}
+
+
+.Interests{
+	float: right;
+	padding-top: 80px;
+	margin-right: 100px;
+	width: 30%;
+}
+
+.Interests li{
+	font-family: "Roboto";
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+
+.description{
+	
+	float: right;
+	margin-right: 100px;
+	padding-top: 80px;
+	font-family: "Roboto";
+	font-weight: bold;
+	font-size: 20px;
+	font-weight: normal;
+	width: 30%;
+}
+
+.description1{
+	
+	float: right;
+	margin-right: 100px;
+	padding-top: 80px;
+	font-family: "Roboto";
+	font-weight: bold;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: normal;
+	width: 30%;
+}
+
+.description2{
+	
+	float: right;
+	margin-right: 100px;
+	padding-top: 80px;
+	font-family: "Roboto";
+	font-weight: bold;
+	font-size: 20px;
+	font-weight: normal;
+	width: 30%;
+}
+
+.image{
+	padding-top: 30px;
+	background-image: url("bg3.jpg");
+	height:100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.image1{
+	padding-top: 30px;
+	background-image: url("2.jpg");
+	height:100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+
+hr{
+	text-align: center;
+	max-width: 90%;
+	border: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+	
+
+}
+.main-nav
+ {
+ 	
+ 	float: right;
+ 	list-style: none;
+ 	margin-top: 40px;
+ 	margin-right: 70px;
+ 	margin-left: 100px;
+
+ }
+
+ .main-nav li
+ {
+ 	display: inline-block;
+ 	font-size: 20px;
+
+ }
+
+ .main-nav li a:hover
+
+ {
+ 	border: 1px solid white;
+ 	color: red;
+ }
+
+.main-nav li a{
+	color: #000000;
+}
+
+a:visited{
+	color: #654099;
+}
+
+li a:visited{
+	color: #654099;
+}
+
+#content{
+	text-align: center;
+	padding-top: 25%; 
+	text-shadow: 0px 4px 3px  rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h2 i{
+	text-align: center;
+	color: #000000;
+}
+
+h2{
+	color: white;
+	font-family: Helvetica;
+	font-size: 50px;
+}
+
